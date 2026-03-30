@@ -65,8 +65,7 @@ Google Form – Digital Literacy Awareness Quiz
 
 I created a Google Form quiz to help my batchmates test their digital literacy knowledge. You can access it here:
 
-🔗 https://docs.google.com/forms/d/e/1FAIpQLSfbIJMR0xD3m_35xnLtVeVfyVqOIp18uvfKn_aHxdAsT8_2-A/viewform?usp=sharing&ouid=107898196506425026509
-
+🔗 https://docs.google.com/forms/d/e/1FAIpQLSeytp14nhS1oqKxYCcAy7Wx5hr3u8j0v-f_O1FfMt1wmoFqNQ/viewform?usp=publish-editor
 What I Learned
 
 This project taught me more than I expected. Here are some key takeaways:
